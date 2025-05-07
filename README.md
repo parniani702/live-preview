@@ -12,4 +12,4 @@ Just open the `index.html` file in your browser and start coding.
 
 ## Dependencies
 - [CodeMirror](https://codemirror.net/)
-- [Paged.js]([https://www.pagedjs.org/](https://parniani702.github.io/live-preview-code/) (for print-style preview)
+- [Paged.js](https://parniani702.github.io/live-preview-code/) (for print-style preview)
